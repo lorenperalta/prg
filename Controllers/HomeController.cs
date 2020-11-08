@@ -12,26 +12,30 @@ namespace prg.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
+        
         public IActionResult Index()
         {
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult Registro()
         {
             return View();
         }
 
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        [HttpPost]
+        public IActionResult Registro(Registro objRegistro)
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            if(ModelState.IsValid){
+                return RedirectToAction("Confirmacion");
+            }
+            return View(objRegistro);
         }
+
+        public IActionResult Confirmacion()
+        {
+            return View();
+        }
+
     }
 }

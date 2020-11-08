@@ -14402,11 +14402,6 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\PC_\\Desktop\\usmp\\2020 - 2\\programacion 1\\teoria\\prg\\prg\\Views\\Registro\\Index.cshtml",
-      "TargetPath": "Views\\Registro\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "c:\\Users\\PC_\\Desktop\\usmp\\2020 - 2\\programacion 1\\teoria\\prg\\prg\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -14427,8 +14422,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\PC_\\Desktop\\usmp\\2020 - 2\\programacion 1\\teoria\\prg\\prg\\Views\\Home\\Confirmacion.cshtml",
+      "TargetPath": "Views\\Home\\Confirmacion.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\PC_\\Desktop\\usmp\\2020 - 2\\programacion 1\\teoria\\prg\\prg\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\PC_\\Desktop\\usmp\\2020 - 2\\programacion 1\\teoria\\prg\\prg\\Views\\Home\\Registro.cshtml",
+      "TargetPath": "Views\\Home\\Registro.cshtml",
       "FileKind": "mvc"
     }
   ],

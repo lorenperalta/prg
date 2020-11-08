@@ -35,4 +35,5 @@ C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\teoria\prg\prg\obj\Debug\netco
 C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\teoria\prg\prg\obj\Debug\netcoreapp3.1\prg.pdb
 C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\teoria\prg\prg\obj\Debug\netcoreapp3.1\prg.genruntimeconfig.cache
 C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\teoria\prg\prg\obj\Debug\netcoreapp3.1\prg.csproj.CopyComplete
-C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\teoria\prg\prg\obj\Debug\netcoreapp3.1\Razor\Views\Registro\Index.cshtml.g.cs
+C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\teoria\prg\prg\obj\Debug\netcoreapp3.1\Razor\Views\Home\Confirmacion.cshtml.g.cs
+C:\Users\PC_\Desktop\usmp\2020 - 2\programacion 1\teoria\prg\prg\obj\Debug\netcoreapp3.1\Razor\Views\Home\Registro.cshtml.g.cs
